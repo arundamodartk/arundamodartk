@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋,
 
-<!--
-**arundamodartk/arundamodartk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://linkedin.com/in/arundamodartk">
+  <img align="left" alt="Arun Damodaran - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://instagram.com/arun_damodar_tk">
+  <img align="left" alt="Arun Damodaran - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<br />
 
-Here are some ideas to get you started:
+I'm a NodeJS developer who works in Agile methodologies. Other than professional skills, I’m good at drawing portraits and doodles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies :computer: :
+- Languages - JavaScript, HTML, CSS, EJS
+- Frameworks - Express, Loopback3
+- Databases - MySQL, PostgreSQL, MongoDB
+ 
+Cheers :smiley:, <br />
+Arun Damodaran T K
