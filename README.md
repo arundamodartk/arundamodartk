@@ -8,7 +8,7 @@
 </a>
 <br />
 <br /> 
-I'm a NodeJS developer who works in Agile methodologies. Other than professional skills, I’m good at drawing portraits and doodles.
+I'm a NodeJS developer who works in Agile methodologies. Familiar with database designing, microservices and AWS services.
 
 #### Technologies :computer: :
 - Languages - JavaScript, HTML, CSS, EJS
